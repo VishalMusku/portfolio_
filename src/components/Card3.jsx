@@ -13,8 +13,6 @@ const Card3 = () => {
       class="max-w-xl bg-white rounded-lg border border-gray-200 shadow-lg dark:bg-gray-800 dark:border-gray-700 my-8"
     >
       
-
-
       <div className="h-96 w-full overflow-hidden">
         <img
           className="w-full h-full object-cover"
@@ -32,8 +30,7 @@ const Card3 = () => {
           </h5>
         </a>
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Here are the biggest enterprise technology acquisitions of 2021 so
-          far, in reverse chronological order.
+        Used R programming to analyse spotify data across the globe to find out what factors contribute to the popularity of song and tested other hypothesis.
         </p>
         <a
           href="https://github.com/VishalMusku/Spotify-popular-songs-data-analysis" target="_blank"

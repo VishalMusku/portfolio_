@@ -29,8 +29,7 @@ const Card5 = () => {
           </h5>
        
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Here are the biggest enterprise technology acquisitions of 2021 so
-          far, in reverse chronological order.
+          Built a web application using LLMs to process corporate annual ESG reports to extract the relevant information by quering the document with unstructured data using natural language.
         </p>
         <a
           href="https://github.com/VishalMusku/LLM_based_chatbot" target="_blank"

@@ -34,8 +34,7 @@ const Card1 = () => {
           </h5>
         
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Here are the biggest enterprise technology acquisitions of 2021 so
-          far, in reverse chronological order.
+          Built a predictive model using 4 datamining methods (supervised and unsupervised) to narrow down to the top indicators that contribute to Diabetes.
         </p>
         <a
           href="https://github.com/VishalMusku/Diabetes-disease-prediction" target="_blank"

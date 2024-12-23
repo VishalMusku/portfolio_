@@ -34,12 +34,11 @@ const Home = () => {
               <span className="block text-blue-500 z-0 lg:inline">
                 <Typical
                   steps={[
-                    "Data Analyst",
-                    1000,
                     "Data Engineer",
                     1000,
-                    "Data Scientist",
+                    "Business Inelligence Developer",
                     1000,
+
                   ]}
                   loop={Infinity}
                 />

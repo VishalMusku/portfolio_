@@ -4,6 +4,8 @@ import Card2 from "../components/Card2";
 import Card3 from "../components/Card3";
 import Card4 from "../components/Card4";
 import Card5 from "../components/Card5";
+import Card6 from "../components/Card6";
+import Card7 from "../components/Card7";
 
 import { ThemeContext } from "../themeProvider";
 
@@ -24,26 +26,30 @@ const Projects = () => {
          
         </h4>
         <div className="mt-8 flex justify-between items-stretch flex-wrap">
-        
-        
+
+            
+            <Card6 title="Project 1" description="Business Intelligence System" />
+
+
+            <Card7 title="Project 1" description="AutoGrader System" />
+
+                
             <Card1 title="Project 1" description="Diabetes Disease prediction" />
         
 
-
             <Card2 title="Project 1" description="Spotify popular songs" />
      
-
         
             <Card3 title="Project 1" description="Sea World Data Analysis" />
         
 
-
             <Card4 title="Project 1" description="Tableau case studies" />
       
-
        
             <Card5 title="Project 1" description="U.S. Awards data analysis" />
-       
+
+
+
 
   
         

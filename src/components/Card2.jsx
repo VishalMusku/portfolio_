@@ -34,8 +34,7 @@ const Card2 = () => {
           </h5>
  
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Here are the biggest enterprise technology acquisitions of 2021 so
-          far, in reverse chronological order.
+          Used Microsoft excel to perform data analysis by employing over 9 different types of analysis to answer important business question to drive growth and built interactive dashboards for the top level management to draw insights.
         </p>
         <a
           href="https://github.com/VishalMusku/Sea-World-data-analysis" target="_blank"
