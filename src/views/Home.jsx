@@ -34,6 +34,8 @@ const Home = () => {
               <span className="block text-blue-500 z-0 lg:inline">
                 <Typical
                   steps={[
+                    "Data Scientist",
+                    1000,
                     "Data Engineer",
                     1000,
                     "Business Inelligence Developer",
