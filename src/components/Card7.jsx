@@ -17,7 +17,7 @@ const Card7 = () => {
 <div className="h-96 w-full overflow-hidden">
         <img
           className="w-full h-full object-cover"
-             src="https://fdiinc.com/wp-content/uploads/2020/06/blog-etl-data-extraction-strategies.png"
+             src="Autograding.jpeg"
           alt=""     
         />    
       </div> 
@@ -29,7 +29,7 @@ const Card7 = () => {
           </h5>
        
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
-          Built this system to automate the grading processs of a 624 students leveraging AI significantly reducing manual effors and time spent by almost 75%
+          Built a system to automate the grading processs of 624 students leveraging AI significantly reducing manual effors and time spent by almost 75%
         </p>
         <a
           href="https://github.com/VishalMusku/DecisionRationaleGrader" target="_blank"

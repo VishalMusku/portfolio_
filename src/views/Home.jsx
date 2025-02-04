@@ -34,8 +34,6 @@ const Home = () => {
               <span className="block text-blue-500 z-0 lg:inline">
                 <Typical
                   steps={[
-                    "Data Scientist",
-                    1000,
                     "Data Engineer",
                     1000,
                     "Business Inelligence Developer",
@@ -53,8 +51,7 @@ const Home = () => {
                   : "mt-3 text-base text-white sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0"
               }
             >
-              I'm a Computer Science Grad and am currently pursuing Masters in Management of Information and Technology (MS-MIT) at
-              University of Oklahoma. 
+              Graduated with a Master's in Management of Information and Technology (MS-MIT) from the University of Oklahoma with a perfect 4.0 GPA, building on my background in Computer Science.
             </p>
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (

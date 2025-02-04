@@ -2,7 +2,11 @@ export const techStack = [
 
   { name: "Python Language", link: "https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/python.svg"},
 
-  { name: "MySQl", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" },
+  { name: "Apache Spark", link: "https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"},
+
+  { name: "Apache Kafka", link: ""},
+  
+  { name: "MySQl", link: "https://img.icons8.com/material-outlined/24/mysql-logo.png" },
 
   { name: "SQL Server", link: "https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/msql_server.svg"},
 
@@ -19,12 +23,14 @@ export const techStack = [
   { name: "Jira", link: "https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/jira.png" },
 
   { name: "Confluence", link: "https://img.icons8.com/color/48/confluence--v2.png" },
+  
+  { name: "Docker", link: "https://img.icons8.com/color/48/docker.png" },
 
-  { name: "HTML", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
+  // { name: "HTML", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
 
-  { name: "CSS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" },
+  // { name: "CSS", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" },
 
-  { name: "Javascript", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+  // { name: "Javascript", link: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
  
   { name: "Visual Studio Code", link: "https://img.icons8.com/fluency/48/visual-studio-code-2019.png" },
 

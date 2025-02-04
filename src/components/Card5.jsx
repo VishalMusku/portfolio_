@@ -17,7 +17,7 @@ const Card5 = () => {
 <div className="h-96 w-full overflow-hidden">
         <img
           className="w-full h-full object-cover"
-             src="https://fdiinc.com/wp-content/uploads/2020/06/blog-etl-data-extraction-strategies.png"
+             src="LLMDataExtractor.jpeg"
           alt=""     
         />    
       </div> 

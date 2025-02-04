@@ -15,11 +15,12 @@ const Card6 = () => {
 
 
 <div className="h-96 w-full overflow-hidden">
-        <img
-          className="w-full h-full object-cover"
-             src="https://fdiinc.com/wp-content/uploads/2020/06/blog-etl-data-extraction-strategies.png"
-          alt=""     
-        />    
+  <img
+    className="w-full h-full object-cover"
+    src="/Bizcafe.jpeg"
+    alt="BizCafe Image"
+  />
+
       </div> 
      
       <div class="p-5">
