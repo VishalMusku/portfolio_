@@ -61,7 +61,7 @@ export const techStack = [
 
 
 export const contactLinks = [{ name: 'Github', url: 'https://img.icons8.com/doodle/40/000000/github--v1.png', link :'https://github.com/VishalMusku'},
-{ name: 'LinkedIn', url: 'https://img.icons8.com/doodle/40/000000/linkedin--v2.png', link: 'https://www.linkedin.com/in/vishal-reddy-musku/'}
+// { name: 'LinkedIn', url: 'https://img.icons8.com/doodle/40/000000/linkedin--v2.png', link: 'https://www.linkedin.com/in/vishal-reddy-musku/'}
 ]
 
 

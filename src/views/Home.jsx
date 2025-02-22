@@ -53,6 +53,7 @@ const Home = () => {
             >
               Graduated with a Master's in Management of Information and Technology (MS-MIT) from the University of Oklahoma with a perfect 4.0 GPA, building on my background in Computer Science.
             </p>
+            
             <div className="flex md:justify-start ">
               {contactLinks.map((el) => (
                 <a
@@ -70,14 +71,17 @@ const Home = () => {
                   Resume
                 </Link> */}
 
-<a
+
+          {/* enable this for resume */}
+
+{/* <a
   href="/resume.pdf"
   className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-blue-500 hover:bg-blue-200 md:py-4 md:text-lg md:px-10"
   target="_blank"  // Opens in a new tab
   rel="noopener noreferrer"
 >
   Resume
-</a>
+</a> */}
 
 
               </div>
